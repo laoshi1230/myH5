@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
-		<title>唐诗一首</title>
+		<title></title>
 	</head>
 	<body>
 		<h1>静夜思</h1>
